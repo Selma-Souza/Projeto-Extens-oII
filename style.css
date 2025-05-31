@@ -63,21 +63,23 @@ a {
 }
 
 #titulo {
-    color: white;
+    color: rgb(94, 126, 7);
     padding-top: 20%;
     font-size: 70px;
     line-height: 0.6;
     text-shadow: 3px 3px  rgb(0, 0, 0);
+    
     /*font-style: italic;*/
 }
 
+
 #subtitulo {
-    color: white;
+    color: rgb(92, 126, 7);
     margin-left: 20%;
     margin-right: 20%;
     font-size: 30px;
-    border-top: 3px solid white;
-    text-shadow: 2px 2px  brown;
+    border-top: 3px solid rgb(0, 0, 0);
+    text-shadow: 2px 2px  rgb(0, 0, 0);
 }
 
 #acao {
